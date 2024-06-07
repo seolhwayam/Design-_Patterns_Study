@@ -158,5 +158,7 @@ public class CompositePattern {
 
         Waitress waitress = new Waitress(allMenus);
         waitress.printMenu();
+
+        System.out.println("ghgh");
     }
 }
